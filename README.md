@@ -1,7 +1,10 @@
 # LAB
 
-## Buy a feature
+## Short introduction
 
+Congrats !
+
+## Buy a feature
 
 
 Rules:
@@ -15,15 +18,17 @@ Rules:
 
 Shopping list:
 
-* Be quick or be dead: 800 €
-* Kitchen Run: 3000 €
-* Remember the future: 3000 €
-* My Worst Nightmare: 3000 €
-* Give me details:  1800 €
-* Workshop Preorder - SUPËR DEAL !!! - 1000 € - Caution: Only 1 remaining !
-* Tell me more - Ask a question on the survey - 300 € 
-* Tell me more - Ask a question on the LAB or the workshops - 200 € 
-* Gimme the damn microphone (for a minute)- 300 € 
+* Be quick or be dead: 800 F
+* Kitchen Run: 3000 F
+* Remember the future: 3000 F
+* My Worst Nightmare: 3000 F
+* Speed Boat boarding :  3000 F
+* Give me details:  1800 F
+* Workshop Preorder - SUPËR DEAL !!! - 1000 F - Caution: Only 1 remaining !
+* Tell me more - Ask a question on the survey - 300 F
+* Tell me more - Ask a question on the LAB or the workshops - 200 F
+* Gimme the damn microphone (for a minute)- 300 F
+
 
 # My Worst Nightmare
 
